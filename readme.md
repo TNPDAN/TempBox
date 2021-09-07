@@ -1,6 +1,6 @@
 <h1>TempBox</h1>
 <h>ส่วนฝากล่อง ขนาด 55x115 </h>
-<img src="Photo/Top.png" width="300">
+<img src="Photo/Top.png" width="">
 
 <h1>อุปกรณ์</h1>
 <h>1.EPS8266 V.2<h>
