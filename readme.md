@@ -2,7 +2,7 @@
 <p>ส่วนฝากล่อง ขนาด 55x115 <p>
 <img src="Photo/Top.png" width="850">
 
-<p>ส่วนฝากล่อง ขนาด 55x115 <p>
+<p>ส่วนกล่อง ขนาด 72.5x115 <p>
 <img src="Photo/Basebox.png" width="850">
 
 <h1>อุปกรณ์</h1>
